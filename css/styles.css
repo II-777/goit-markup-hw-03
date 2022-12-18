@@ -374,6 +374,7 @@ body {
 /*-- PORTFOLIO --*/
 .portfolio-card-link {
   text-decoration: none;
+  color: var(--color-body-text);
 }
 .portfolio-card-wrapper {
   border-top: none;
